@@ -3,7 +3,7 @@ import axios from 'axios';
 export var ZT:any = {};
 
 async function GetZTFile(filename:any){
-    return axios(`/zt/${filename}.json`).then(response => {
+    return axios(`./zt/${filename}.json`).then(response => {
         ZT = {...ZT, 
         ...response.data};
     });

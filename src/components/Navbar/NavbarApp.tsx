@@ -40,7 +40,7 @@ export default function NavbarApp(props:any){
         </Navbar.Toggle>
         <Navbar.Collapse id="navbarAppContent" >
           <Nav className='navbar-main'>
-            <NavLink to="/zerotrust" className='navApp-item'>
+            <NavLink to="/zero-trust" className='navApp-item'>
               <h3 className='navItem-icon'>ZT</h3>
               <div className='navItem-text'>Zero Trust</div>
             </NavLink>

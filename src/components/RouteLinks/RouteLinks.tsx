@@ -7,8 +7,8 @@ export default function RouteLinks(props:any){
 
   return(
   <Routes>
-    <Route path="/" element={<Navigate to='/zerotrust'></Navigate>} />
-    <Route path="/zerotrust" element={<ZeroTrust />} />
+    <Route path="/" element={<Navigate to='/zero-trust'></Navigate>} />
+    <Route path="/zero-trust" element={<ZeroTrust />} />
   </Routes>
   );
 };

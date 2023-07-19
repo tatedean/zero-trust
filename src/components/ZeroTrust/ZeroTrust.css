@@ -1,0 +1,64 @@
+.pillar-container{
+    display: flex;
+    border: 1px solid black;
+    padding: 0.5rem;
+}
+
+.container-zero-trust{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+.container-zero-trust .sidebar-item{
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+    color: white;
+}
+
+.container-zero-trust-content{
+    padding-top: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    overflow-y: auto;
+}
+
+.container-zero-trust .info{
+    color: grey;
+    cursor: help;
+}
+
+
+.zt-btn{
+    color: black !important;
+
+}
+
+.zt-prgb{
+    height: 0.25rem;
+    transform: translate(0, -0.55rem);
+    margin: 0.25rem;
+}
+
+.zt-card{
+    position: relative;
+}
+
+.sidebar-option{
+    margin: 2rem 0 0 0;
+}
+
+.sidebar-option p{
+    padding: 0.5rem;
+}
+
+.sidebar-icons{
+    height: 1.5rem;
+    width: 1.5rem;
+    &:hover{
+        transform: scale(1.2);
+        cursor: pointer;
+    }
+}

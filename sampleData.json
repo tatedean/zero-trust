@@ -1,0 +1,2507 @@
+{
+    "AC-1": {
+        "nid": "AC-1",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-10": {
+        "nid": "AC-10",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-11": {
+        "nid": "AC-11",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-11(1)": {
+        "nid": "AC-11(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-12": {
+        "nid": "AC-12",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-12(1)": {
+        "nid": "AC-12(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-14": {
+        "nid": "AC-14",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-16": {
+        "nid": "AC-16",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-16(3)": {
+        "nid": "AC-16(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-16(5)": {
+        "nid": "AC-16(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-16(6)": {
+        "nid": "AC-16(6)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-17": {
+        "nid": "AC-17",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-17(1)": {
+        "nid": "AC-17(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-17(2)": {
+        "nid": "AC-17(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-17(3)": {
+        "nid": "AC-17(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-17(4)": {
+        "nid": "AC-17(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-17(6)": {
+        "nid": "AC-17(6)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-17(9)": {
+        "nid": "AC-17(9)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-18": {
+        "nid": "AC-18",
+        "status": "Inherited",
+        "j": "This control is inheritable as long as the customer system is hosted exclusively in AWS."
+    },
+    "AC-18(1)": {
+        "nid": "AC-18(1)",
+        "status": "Inherited",
+        "j": "This control is inheritable as long as the customer system is hosted exclusively in AWS."
+    },
+    "AC-18(3)": {
+        "nid": "AC-18(3)",
+        "status": "Inherited",
+        "j": "Though there are no wireless networks within the system boundary, AWS is responsible for continuously scanning and monitoring for rogue wireless access points that have not been authorized by AWS Security."
+    },
+    "AC-18(4)": {
+        "nid": "AC-18(4)",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "AC-18(5)": {
+        "nid": "AC-18(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-19": {
+        "nid": "AC-19",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-19(4)": {
+        "nid": "AC-19(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-19(5)": {
+        "nid": "AC-19(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-2": {
+        "nid": "AC-2",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-2(1)": {
+        "nid": "AC-2(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-2(10)": {
+        "nid": "AC-2(10)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-2(11)": {
+        "nid": "AC-2(11)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-2(12)": {
+        "nid": "AC-2(12)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-2(13)": {
+        "nid": "AC-2(13)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-2(2)": {
+        "nid": "AC-2(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-2(3)": {
+        "nid": "AC-2(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-2(4)": {
+        "nid": "AC-2(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-2(5)": {
+        "nid": "AC-2(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-2(6)": {
+        "nid": "AC-2(6)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-2(7)": {
+        "nid": "AC-2(7)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-2(8)": {
+        "nid": "AC-2(8)",
+        "status": "Not Applicable",
+        "j": "This is marked NA from the privacy overlay and will not allow for modification by ISSM/ISSE."
+    },
+    "AC-2(9)": {
+        "nid": "AC-2(9)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-20": {
+        "nid": "AC-20",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-20(1)": {
+        "nid": "AC-20(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-20(2)": {
+        "nid": "AC-20(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-20(3)": {
+        "nid": "AC-20(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-21": {
+        "nid": "AC-21",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-22": {
+        "nid": "AC-22",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-23": {
+        "nid": "AC-23",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-24": {
+        "nid": "AC-24",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-3": {
+        "nid": "AC-3",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-3(4)": {
+        "nid": "AC-3(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-3(9)": {
+        "nid": "AC-3(9)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-4": {
+        "nid": "AC-4",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-4(15)": {
+        "nid": "AC-4(15)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-4(17)": {
+        "nid": "AC-4(17)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-4(18)": {
+        "nid": "AC-4(18)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-4(4)": {
+        "nid": "AC-4(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-4(9)": {
+        "nid": "AC-4(9)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-5": {
+        "nid": "AC-5",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-6": {
+        "nid": "AC-6",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-6(1)": {
+        "nid": "AC-6(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-6(10)": {
+        "nid": "AC-6(10)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-6(2)": {
+        "nid": "AC-6(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-6(5)": {
+        "nid": "AC-6(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-6(7)": {
+        "nid": "AC-6(7)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-6(8)": {
+        "nid": "AC-6(8)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-6(9)": {
+        "nid": "AC-6(9)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-7": {
+        "nid": "AC-7",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-7(2)": {
+        "nid": "AC-7(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AC-8": {
+        "nid": "AC-8",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AT-1": {
+        "nid": "AT-1",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "AT-2": {
+        "nid": "AT-2",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "AT-2(2)": {
+        "nid": "AT-2(2)",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "AT-3": {
+        "nid": "AT-3",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AT-3(2)": {
+        "nid": "AT-3(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AT-3(4)": {
+        "nid": "AT-3(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AT-4": {
+        "nid": "AT-4",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-1": {
+        "nid": "AU-1",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-10": {
+        "nid": "AU-10",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-10(1)": {
+        "nid": "AU-10(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-11": {
+        "nid": "AU-11",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-11(1)": {
+        "nid": "AU-11(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-12": {
+        "nid": "AU-12",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-12(1)": {
+        "nid": "AU-12(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-12(3)": {
+        "nid": "AU-12(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-13": {
+        "nid": "AU-13",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-14": {
+        "nid": "AU-14",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-14(1)": {
+        "nid": "AU-14(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-14(2)": {
+        "nid": "AU-14(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-14(3)": {
+        "nid": "AU-14(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-2": {
+        "nid": "AU-2",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-2(3)": {
+        "nid": "AU-2(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-3": {
+        "nid": "AU-3",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-3(1)": {
+        "nid": "AU-3(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-3(2)": {
+        "nid": "AU-3(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-4": {
+        "nid": "AU-4",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-4(1)": {
+        "nid": "AU-4(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-5": {
+        "nid": "AU-5",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-5(1)": {
+        "nid": "AU-5(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-5(2)": {
+        "nid": "AU-5(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-6": {
+        "nid": "AU-6",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-6(1)": {
+        "nid": "AU-6(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-6(10)": {
+        "nid": "AU-6(10)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-6(3)": {
+        "nid": "AU-6(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-6(4)": {
+        "nid": "AU-6(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-7": {
+        "nid": "AU-7",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-7(1)": {
+        "nid": "AU-7(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-7(2)": {
+        "nid": "AU-7(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-8": {
+        "nid": "AU-8",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-8(1)": {
+        "nid": "AU-8(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-9": {
+        "nid": "AU-9",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-9(2)": {
+        "nid": "AU-9(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-9(3)": {
+        "nid": "AU-9(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "AU-9(4)": {
+        "nid": "AU-9(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-1": {
+        "nid": "CA-1",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-2": {
+        "nid": "CA-2",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-2(1)": {
+        "nid": "CA-2(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-2(3)": {
+        "nid": "CA-2(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-3": {
+        "nid": "CA-3",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-3(1)": {
+        "nid": "CA-3(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-3(2)": {
+        "nid": "CA-3(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-3(3)": {
+        "nid": "CA-3(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-3(5)": {
+        "nid": "CA-3(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-5": {
+        "nid": "CA-5",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-6": {
+        "nid": "CA-6",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-7": {
+        "nid": "CA-7",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-7(1)": {
+        "nid": "CA-7(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-8": {
+        "nid": "CA-8",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-8(1)": {
+        "nid": "CA-8(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-8(2)": {
+        "nid": "CA-8(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-9": {
+        "nid": "CA-9",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CA-9(1)": {
+        "nid": "CA-9(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-1": {
+        "nid": "CM-1",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-10": {
+        "nid": "CM-10",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-10(1)": {
+        "nid": "CM-10(1)",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "CM-11": {
+        "nid": "CM-11",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-11(2)": {
+        "nid": "CM-11(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-2": {
+        "nid": "CM-2",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-2(1)": {
+        "nid": "CM-2(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-2(3)": {
+        "nid": "CM-2(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-2(7)": {
+        "nid": "CM-2(7)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-3": {
+        "nid": "CM-3",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-3(2)": {
+        "nid": "CM-3(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-3(4)": {
+        "nid": "CM-3(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-3(6)": {
+        "nid": "CM-3(6)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-4": {
+        "nid": "CM-4",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-4(1)": {
+        "nid": "CM-4(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-4(2)": {
+        "nid": "CM-4(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-5": {
+        "nid": "CM-5",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-5(1)": {
+        "nid": "CM-5(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-5(2)": {
+        "nid": "CM-5(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-5(5)": {
+        "nid": "CM-5(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-5(6)": {
+        "nid": "CM-5(6)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-6": {
+        "nid": "CM-6",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-6(1)": {
+        "nid": "CM-6(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-7": {
+        "nid": "CM-7",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-7(1)": {
+        "nid": "CM-7(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-7(2)": {
+        "nid": "CM-7(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-7(3)": {
+        "nid": "CM-7(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-7(5)": {
+        "nid": "CM-7(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-8": {
+        "nid": "CM-8",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-8(1)": {
+        "nid": "CM-8(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-8(2)": {
+        "nid": "CM-8(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-8(3)": {
+        "nid": "CM-8(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-8(5)": {
+        "nid": "CM-8(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CM-9": {
+        "nid": "CM-9",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CP-1": {
+        "nid": "CP-1",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "CP-10": {
+        "nid": "CP-10",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CP-10(2)": {
+        "nid": "CP-10(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CP-10(6)": {
+        "nid": "CP-10(6)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CP-2": {
+        "nid": "CP-2",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CP-2(1)": {
+        "nid": "CP-2(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CP-2(3)": {
+        "nid": "CP-2(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CP-2(8)": {
+        "nid": "CP-2(8)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CP-3": {
+        "nid": "CP-3",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CP-4": {
+        "nid": "CP-4",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CP-4(1)": {
+        "nid": "CP-4(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CP-6": {
+        "nid": "CP-6",
+        "status": "Inherited",
+        "j": "Customers can leverage multi-availability zone infrastructure and cross-region replication for services that support it to address alternate storage site controls if required by their organization.\n\nThis control may be inheritable if customers choose an AWS region as an alternate storage site. However, if part of any system that is being created has components outside of AWS where this control applies, it is not inheritable."
+    },
+    "CP-6(1)": {
+        "nid": "CP-6(1)",
+        "status": "Inherited",
+        "j": "Customers can leverage multi-availability zone infrastructure and cross-region replication for services that support it to address alternate storage site controls if required by their organization.\n\nThis control may be inheritable if customers choose an AWS region as an alternate storage site. However, if part of any system that is being created has components outside of AWS where this control applies, it is not inheritable."
+    },
+    "CP-6(3)": {
+        "nid": "CP-6(3)",
+        "status": "Inherited",
+        "j": "This control may be inheritable if customers choose an AWS region as an alternate storage site. However, if part of any system that is being created has components outside of AWS where this control applies, it is not inheritable."
+    },
+    "CP-7": {
+        "nid": "CP-7",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CP-7(1)": {
+        "nid": "CP-7(1)",
+        "status": "Inherited",
+        "j": "Customers can leverage multi-availability zone infrastructure and cross-region replication to address alternate storage site controls if required by their organization. Customers choosing to use AWS for primary and alternate processing sites should determine if the sites meet their organization's geographical separation requirements.\n\nThis control may be inheritable if customers choose an AWS region as an alternate storage site. However, if part of any system that is being created has components outside of AWS where this control applies, it is not inheritable."
+    },
+    "CP-7(2)": {
+        "nid": "CP-7(2)",
+        "status": "Inherited",
+        "j": "This control may be inheritable if customers choose an AWS region as an alternate storage site. However, if part of any system that is being created has components outside of AWS where this control applies, it is not inheritable.\n\nThis control may be inheritable if customers choose an AWS region as an alternate storage site. However, if part of any system that is being created has components outside of AWS where this control applies, it is not inheritable."
+    },
+    "CP-7(3)": {
+        "nid": "CP-7(3)",
+        "status": "Inherited",
+        "j": "Customers can leverage multi-availability zone infrastructure and cross-region replication to address alternate processing site controls if required by their organization.\n\nThis control may be inheritable if customers choose an AWS region as an alternate storage site. However, if part of any system that is being created has components outside of AWS where this control applies, it is not inheritable."
+    },
+    "CP-7(4)": {
+        "nid": "CP-7(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CP-8": {
+        "nid": "CP-8",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CP-8(1)": {
+        "nid": "CP-8(1)",
+        "status": "Inherited",
+        "j": "Local access is not available in AWS datacenters. This control is not applicable to AWS. The customer's system must run entirely in AWS for this control to be inheritable."
+    },
+    "CP-8(2)": {
+        "nid": "CP-8(2)",
+        "status": "Inherited",
+        "j": "Local access is not available in AWS datacenters. This control is not applicable to AWS. The customer's system must run entirely in AWS for this control to be inheritable."
+    },
+    "CP-9": {
+        "nid": "CP-9",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CP-9(1)": {
+        "nid": "CP-9(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CP-9(3)": {
+        "nid": "CP-9(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "CP-9(5)": {
+        "nid": "CP-9(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-1": {
+        "nid": "IA-1",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "IA-10": {
+        "nid": "IA-10",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-2": {
+        "nid": "IA-2",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-2(1)": {
+        "nid": "IA-2(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-2(11)": {
+        "nid": "IA-2(11)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-2(12)": {
+        "nid": "IA-2(12)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-2(2)": {
+        "nid": "IA-2(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-2(3)": {
+        "nid": "IA-2(3)",
+        "status": "Inherited",
+        "j": "Local access is not available in AWS datacenters. This control is not applicable to AWS. The customer's system must run entirely in AWS for this control to be inheritable."
+    },
+    "IA-2(4)": {
+        "nid": "IA-2(4)",
+        "status": "Inherited",
+        "j": "N/A - Local account access to servers and devices within the system boundary is not allowed."
+    },
+    "IA-2(5)": {
+        "nid": "IA-2(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-2(6)": {
+        "nid": "IA-2(6)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-2(7)": {
+        "nid": "IA-2(7)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-2(8)": {
+        "nid": "IA-2(8)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-2(9)": {
+        "nid": "IA-2(9)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-3": {
+        "nid": "IA-3",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-3(1)": {
+        "nid": "IA-3(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-4": {
+        "nid": "IA-4",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-4(2)": {
+        "nid": "IA-4(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-4(3)": {
+        "nid": "IA-4(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-4(4)": {
+        "nid": "IA-4(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-4(5)": {
+        "nid": "IA-4(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-5": {
+        "nid": "IA-5",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-5(1)": {
+        "nid": "IA-5(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-5(10)": {
+        "nid": "IA-5(10)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-5(11)": {
+        "nid": "IA-5(11)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-5(13)": {
+        "nid": "IA-5(13)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-5(14)": {
+        "nid": "IA-5(14)",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "IA-5(2)": {
+        "nid": "IA-5(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-5(3)": {
+        "nid": "IA-5(3)",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "IA-5(4)": {
+        "nid": "IA-5(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-5(5)": {
+        "nid": "IA-5(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-5(6)": {
+        "nid": "IA-5(6)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-5(7)": {
+        "nid": "IA-5(7)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-5(8)": {
+        "nid": "IA-5(8)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-6": {
+        "nid": "IA-6",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-7": {
+        "nid": "IA-7",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-8": {
+        "nid": "IA-8",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-8(1)": {
+        "nid": "IA-8(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-8(2)": {
+        "nid": "IA-8(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-8(3)": {
+        "nid": "IA-8(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IA-8(4)": {
+        "nid": "IA-8(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-1": {
+        "nid": "IR-1",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "IR-10": {
+        "nid": "IR-10",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-2": {
+        "nid": "IR-2",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-3": {
+        "nid": "IR-3",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-3(2)": {
+        "nid": "IR-3(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-4": {
+        "nid": "IR-4",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-4(1)": {
+        "nid": "IR-4(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-4(2)": {
+        "nid": "IR-4(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-4(3)": {
+        "nid": "IR-4(3)",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "IR-4(4)": {
+        "nid": "IR-4(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-4(5)": {
+        "nid": "IR-4(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-4(6)": {
+        "nid": "IR-4(6)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-4(7)": {
+        "nid": "IR-4(7)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-4(8)": {
+        "nid": "IR-4(8)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-5": {
+        "nid": "IR-5",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-6": {
+        "nid": "IR-6",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-6(1)": {
+        "nid": "IR-6(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-6(2)": {
+        "nid": "IR-6(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-7": {
+        "nid": "IR-7",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-7(1)": {
+        "nid": "IR-7(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-7(2)": {
+        "nid": "IR-7(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-8": {
+        "nid": "IR-8",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-9": {
+        "nid": "IR-9",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-9(1)": {
+        "nid": "IR-9(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-9(2)": {
+        "nid": "IR-9(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-9(3)": {
+        "nid": "IR-9(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "IR-9(4)": {
+        "nid": "IR-9(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MA-1": {
+        "nid": "MA-1",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MA-2": {
+        "nid": "MA-2",
+        "status": "Inherited",
+        "j": "AWS is responsible for scheduling, performing, documenting, and reviewing of records of maintenance and repairs on GovCloud components in accordance with manufacturer or vendor specifications where applicable, or in accordance with GovCloud operational requirements.\n\nAWS is also responsible for employing a Run to Fail maintenance standard for Infrastructure hardware, which consists of network devices and servers; controlling of all maintenance activities locally, within GovCloud datacenters; and prohibiting the removal of information system components for off-site maintenance or repairs."
+    },
+    "MA-3": {
+        "nid": "MA-3",
+        "status": "Inherited",
+        "j": "AWS is responsible for approval, controlling, monitoring of use, maintains on an ongoing basis, permissible GovCloud maintenance tools."
+    },
+    "MA-3(1)": {
+        "nid": "MA-3(1)",
+        "status": "Inherited",
+        "j": "AWS is responsible for inspection of all maintenance tools carried into a facility by third party contractor maintenance personnel for obvious improper modifications."
+    },
+    "MA-3(2)": {
+        "nid": "MA-3(2)",
+        "status": "Inherited",
+        "j": "AWS does not permit portable external hard drives, disks, tapes, memory devices, or any other media inside data centers (see control MP-2.) Third-party contractors do not have logical access to any systems or data for maintenance purposes. Maintenance activities are conducted without the use of portable media. Therefore the control is not applicable."
+    },
+    "MA-3(3)": {
+        "nid": "MA-3(3)",
+        "status": "Inherited",
+        "j": "AWS is responsible for the prevention of unauthorized removal of maintenance equipment through the enforcement of the AWS Maintenance Policy, which prohibits maintenance equipment removal for offsite repairs. Additionally, AWS is responsible for media decommissioning in the manner described in MP-6."
+    },
+    "MA-4": {
+        "nid": "MA-4",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MA-4(1)": {
+        "nid": "MA-4(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MA-4(2)": {
+        "nid": "MA-4(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MA-4(3)": {
+        "nid": "MA-4(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MA-4(4)": {
+        "nid": "MA-4(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MA-4(5)": {
+        "nid": "MA-4(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MA-4(6)": {
+        "nid": "MA-4(6)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MA-4(7)": {
+        "nid": "MA-4(7)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MA-5": {
+        "nid": "MA-5",
+        "status": "Inherited",
+        "j": "Can Be Inherited from CSP"
+    },
+    "MA-5(1)": {
+        "nid": "MA-5(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MA-5(3)": {
+        "nid": "MA-5(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MA-6": {
+        "nid": "MA-6",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MP-1": {
+        "nid": "MP-1",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "MP-2": {
+        "nid": "MP-2",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MP-3": {
+        "nid": "MP-3",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MP-4": {
+        "nid": "MP-4",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MP-5": {
+        "nid": "MP-5",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MP-5(4)": {
+        "nid": "MP-5(4)",
+        "status": "Inherited",
+        "j": "Can Be Inherited from CSP"
+    },
+    "MP-6": {
+        "nid": "MP-6",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MP-6(1)": {
+        "nid": "MP-6(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MP-6(8)": {
+        "nid": "MP-6(8)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MP-7": {
+        "nid": "MP-7",
+        "status": "Inherited",
+        "j": "Can Be Inherited from CSP"
+    },
+    "MP-7(1)": {
+        "nid": "MP-7(1)",
+        "status": "Inherited",
+        "j": "Can Be Inherited from CSP"
+    },
+    "MP-8": {
+        "nid": "MP-8",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MP-8(3)": {
+        "nid": "MP-8(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "MP-8(4)": {
+        "nid": "MP-8(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PE-1": {
+        "nid": "PE-1",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "PE-10": {
+        "nid": "PE-10",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PE-11": {
+        "nid": "PE-11",
+        "status": "Inherited",
+        "j": "Can Be Inherited from CSP"
+    },
+    "PE-12": {
+        "nid": "PE-12",
+        "status": "Inherited",
+        "j": "Can Be Inherited from CSP"
+    },
+    "PE-13": {
+        "nid": "PE-13",
+        "status": "Inherited",
+        "j": "Can Be Inherited from CSP"
+    },
+    "PE-13(3)": {
+        "nid": "PE-13(3)",
+        "status": "Inherited",
+        "j": "Can Be Inherited from CSP"
+    },
+    "PE-14": {
+        "nid": "PE-14",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PE-15": {
+        "nid": "PE-15",
+        "status": "Inherited",
+        "j": "Can Be Inherited from CSP"
+    },
+    "PE-16": {
+        "nid": "PE-16",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PE-17": {
+        "nid": "PE-17",
+        "status": "Inherited",
+        "j": "Can Be Inherited from CSP"
+    },
+    "PE-19": {
+        "nid": "PE-19",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PE-19(1)": {
+        "nid": "PE-19(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PE-2": {
+        "nid": "PE-2",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PE-2(3)": {
+        "nid": "PE-2(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PE-3": {
+        "nid": "PE-3",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PE-3(1)": {
+        "nid": "PE-3(1)",
+        "status": "Inherited",
+        "j": "Can Be Inherited from CSP"
+    },
+    "PE-3(2)": {
+        "nid": "PE-3(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PE-3(3)": {
+        "nid": "PE-3(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PE-3(4)": {
+        "nid": "PE-3(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PE-3(5)": {
+        "nid": "PE-3(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PE-4": {
+        "nid": "PE-4",
+        "status": "Inherited",
+        "j": "Can Be Inherited from CSP"
+    },
+    "PE-5": {
+        "nid": "PE-5",
+        "status": "Inherited",
+        "j": "Can Be Inherited from CSP"
+    },
+    "PE-5(3)": {
+        "nid": "PE-5(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PE-6": {
+        "nid": "PE-6",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PE-6(1)": {
+        "nid": "PE-6(1)",
+        "status": "Inherited",
+        "j": "Can Be Inherited from CSP"
+    },
+    "PE-6(4)": {
+        "nid": "PE-6(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PE-8": {
+        "nid": "PE-8",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PE-9": {
+        "nid": "PE-9",
+        "status": "Inherited",
+        "j": "Can Be Inherited from CSP"
+    },
+    "PL-1": {
+        "nid": "PL-1",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "PL-2": {
+        "nid": "PL-2",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PL-2(3)": {
+        "nid": "PL-2(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PL-4": {
+        "nid": "PL-4",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PL-4(1)": {
+        "nid": "PL-4(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PL-8": {
+        "nid": "PL-8",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PL-8(1)": {
+        "nid": "PL-8(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PL-8(2)": {
+        "nid": "PL-8(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PM-1": {
+        "nid": "PM-1",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "PM-10": {
+        "nid": "PM-10",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "PM-11": {
+        "nid": "PM-11",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PM-12": {
+        "nid": "PM-12",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PM-13": {
+        "nid": "PM-13",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "PM-14": {
+        "nid": "PM-14",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PM-15": {
+        "nid": "PM-15",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "PM-16": {
+        "nid": "PM-16",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PM-2": {
+        "nid": "PM-2",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "PM-3": {
+        "nid": "PM-3",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PM-4": {
+        "nid": "PM-4",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PM-5": {
+        "nid": "PM-5",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PM-6": {
+        "nid": "PM-6",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PM-7": {
+        "nid": "PM-7",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "PM-8": {
+        "nid": "PM-8",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "PM-9": {
+        "nid": "PM-9",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "PS-1": {
+        "nid": "PS-1",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "PS-2": {
+        "nid": "PS-2",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PS-3": {
+        "nid": "PS-3",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PS-3(1)": {
+        "nid": "PS-3(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PS-3(2)": {
+        "nid": "PS-3(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PS-3(3)": {
+        "nid": "PS-3(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PS-4": {
+        "nid": "PS-4",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PS-4(1)": {
+        "nid": "PS-4(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PS-4(2)": {
+        "nid": "PS-4(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PS-5": {
+        "nid": "PS-5",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PS-6": {
+        "nid": "PS-6",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PS-6(2)": {
+        "nid": "PS-6(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PS-6(3)": {
+        "nid": "PS-6(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PS-7": {
+        "nid": "PS-7",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "PS-8": {
+        "nid": "PS-8",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "RA-1": {
+        "nid": "RA-1",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "RA-2": {
+        "nid": "RA-2",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "RA-3": {
+        "nid": "RA-3",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "RA-5": {
+        "nid": "RA-5",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "RA-5(1)": {
+        "nid": "RA-5(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "RA-5(2)": {
+        "nid": "RA-5(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "RA-5(3)": {
+        "nid": "RA-5(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "RA-5(4)": {
+        "nid": "RA-5(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "RA-5(5)": {
+        "nid": "RA-5(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "RA-6": {
+        "nid": "RA-6",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-1": {
+        "nid": "SA-1",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "SA-10": {
+        "nid": "SA-10",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-10(1)": {
+        "nid": "SA-10(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-11": {
+        "nid": "SA-11",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-12": {
+        "nid": "SA-12",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-12(7)": {
+        "nid": "SA-12(7)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-13": {
+        "nid": "SA-13",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-15": {
+        "nid": "SA-15",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-15(9)": {
+        "nid": "SA-15(9)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-16": {
+        "nid": "SA-16",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-17": {
+        "nid": "SA-17",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-18": {
+        "nid": "SA-18",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-19": {
+        "nid": "SA-19",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-19(1)": {
+        "nid": "SA-19(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-2": {
+        "nid": "SA-2",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-20": {
+        "nid": "SA-20",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-21": {
+        "nid": "SA-21",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-22": {
+        "nid": "SA-22",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-22(1)": {
+        "nid": "SA-22(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-3": {
+        "nid": "SA-3",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-4": {
+        "nid": "SA-4",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-4(1)": {
+        "nid": "SA-4(1)",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "SA-4(10)": {
+        "nid": "SA-4(10)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-4(2)": {
+        "nid": "SA-4(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-4(6)": {
+        "nid": "SA-4(6)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-4(7)": {
+        "nid": "SA-4(7)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-4(9)": {
+        "nid": "SA-4(9)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-5": {
+        "nid": "SA-5",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-8": {
+        "nid": "SA-8",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-9": {
+        "nid": "SA-9",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-9(1)": {
+        "nid": "SA-9(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-9(2)": {
+        "nid": "SA-9(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SA-9(5)": {
+        "nid": "SA-9(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-1": {
+        "nid": "SC-1",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-10": {
+        "nid": "SC-10",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-12": {
+        "nid": "SC-12",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-13": {
+        "nid": "SC-13",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-15": {
+        "nid": "SC-15",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-16": {
+        "nid": "SC-16",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-17": {
+        "nid": "SC-17",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-18": {
+        "nid": "SC-18",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-18(1)": {
+        "nid": "SC-18(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-18(2)": {
+        "nid": "SC-18(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-18(3)": {
+        "nid": "SC-18(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-18(4)": {
+        "nid": "SC-18(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-19": {
+        "nid": "SC-19",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-2": {
+        "nid": "SC-2",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-20": {
+        "nid": "SC-20",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-21": {
+        "nid": "SC-21",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-22": {
+        "nid": "SC-22",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-23": {
+        "nid": "SC-23",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-23(1)": {
+        "nid": "SC-23(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-23(3)": {
+        "nid": "SC-23(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-23(5)": {
+        "nid": "SC-23(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-24": {
+        "nid": "SC-24",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-28": {
+        "nid": "SC-28",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-28(1)": {
+        "nid": "SC-28(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-3": {
+        "nid": "SC-3",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-3(1)": {
+        "nid": "SC-3(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-3(4)": {
+        "nid": "SC-3(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-38": {
+        "nid": "SC-38",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-39": {
+        "nid": "SC-39",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-4": {
+        "nid": "SC-4",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-40": {
+        "nid": "SC-40",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-41": {
+        "nid": "SC-41",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-43": {
+        "nid": "SC-43",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-44": {
+        "nid": "SC-44",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-5": {
+        "nid": "SC-5",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-5(1)": {
+        "nid": "SC-5(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-5(2)": {
+        "nid": "SC-5(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-5(3)": {
+        "nid": "SC-5(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-6": {
+        "nid": "SC-6",
+        "status": "Planned",
+        "j": "-"
+    },
+    "SC-7": {
+        "nid": "SC-7",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-7(10)": {
+        "nid": "SC-7(10)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-7(11)": {
+        "nid": "SC-7(11)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-7(12)": {
+        "nid": "SC-7(12)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-7(13)": {
+        "nid": "SC-7(13)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-7(14)": {
+        "nid": "SC-7(14)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-7(18)": {
+        "nid": "SC-7(18)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-7(21)": {
+        "nid": "SC-7(21)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-7(22)": {
+        "nid": "SC-7(22)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-7(23)": {
+        "nid": "SC-7(23)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-7(3)": {
+        "nid": "SC-7(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-7(4)": {
+        "nid": "SC-7(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-7(5)": {
+        "nid": "SC-7(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-7(7)": {
+        "nid": "SC-7(7)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-7(8)": {
+        "nid": "SC-7(8)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-7(9)": {
+        "nid": "SC-7(9)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-8": {
+        "nid": "SC-8",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-8(1)": {
+        "nid": "SC-8(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SC-8(2)": {
+        "nid": "SC-8(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-1": {
+        "nid": "SI-1",
+        "status": "Inherited",
+        "j": "-"
+    },
+    "SI-10": {
+        "nid": "SI-10",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-10(3)": {
+        "nid": "SI-10(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-11": {
+        "nid": "SI-11",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-12": {
+        "nid": "SI-12",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-15": {
+        "nid": "SI-15",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-16": {
+        "nid": "SI-16",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-2": {
+        "nid": "SI-2",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-2(1)": {
+        "nid": "SI-2(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-2(2)": {
+        "nid": "SI-2(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-2(3)": {
+        "nid": "SI-2(3)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-2(6)": {
+        "nid": "SI-2(6)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-3": {
+        "nid": "SI-3",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-3(1)": {
+        "nid": "SI-3(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-3(10)": {
+        "nid": "SI-3(10)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-3(2)": {
+        "nid": "SI-3(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-4": {
+        "nid": "SI-4",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-4(1)": {
+        "nid": "SI-4(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-4(10)": {
+        "nid": "SI-4(10)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-4(11)": {
+        "nid": "SI-4(11)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-4(12)": {
+        "nid": "SI-4(12)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-4(14)": {
+        "nid": "SI-4(14)",
+        "status": "Implemented",
+        "j": "If any component of the customer system is hosted outside of an AWS region, the customer is responsible for implementing this control, if applicable, for that portion of the system."
+    },
+    "SI-4(15)": {
+        "nid": "SI-4(15)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-4(16)": {
+        "nid": "SI-4(16)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-4(19)": {
+        "nid": "SI-4(19)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-4(2)": {
+        "nid": "SI-4(2)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-4(20)": {
+        "nid": "SI-4(20)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-4(22)": {
+        "nid": "SI-4(22)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-4(23)": {
+        "nid": "SI-4(23)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-4(4)": {
+        "nid": "SI-4(4)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-4(5)": {
+        "nid": "SI-4(5)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-5": {
+        "nid": "SI-5",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-6": {
+        "nid": "SI-6",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-7": {
+        "nid": "SI-7",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-7(1)": {
+        "nid": "SI-7(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-7(14)": {
+        "nid": "SI-7(14)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-7(6)": {
+        "nid": "SI-7(6)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-7(7)": {
+        "nid": "SI-7(7)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-7(8)": {
+        "nid": "SI-7(8)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-8": {
+        "nid": "SI-8",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-8(1)": {
+        "nid": "SI-8(1)",
+        "status": "Implemented",
+        "j": "-"
+    },
+    "SI-8(2)": {
+        "nid": "SI-8(2)",
+        "status": "Implemented",
+        "j": "-"
+    }
+}
